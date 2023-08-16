@@ -1,0 +1,3 @@
+https://angular-slider.github.io/angularjs-slider/
+
+https://material.angularjs.org/latest/
